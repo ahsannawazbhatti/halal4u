@@ -1,0 +1,15 @@
+HTTrack3.50-5 launched on Mon, 19 Oct 2026 00:28:08 at https://www.halal4u.es/
+(httrack https://www.halal4u.es/ -O /Users/mac/Users/mac/Documents/projects )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:28:18	Error: 	"Not Found" (404) at link https://www.halal4u.es/www.webador.pl (from https://www.halal4u.es/)
+00:28:18	Error: 	"Not Found" (404) at link https://www.halal4u.es/www.webador.com.au (from https://www.halal4u.es/)
+00:28:18	Warning: 	Link https://www.halal4u.es/cart not scanned (follow robots meta tag)
+00:28:18	Warning: 	Link https://www.halal4u.es/wishlist not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.50-5 mirror complete in 11 seconds : 23 links scanned, 20 files written (1705178 bytes overall) [292720 bytes received at 26610 bytes/sec], 1870803 bytes transferred using HTTP compression in 23 files, ratio 14%
+(2 errors, 2 warnings, 0 messages)

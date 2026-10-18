@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.halal4u.es	TRUE	/	FALSE	1999999999	JWSESSION	6a491eae176568b13f17fd698a2ec25b
+www.halal4u.es	TRUE	/	FALSE	1999999999	samesite	lax
+www.halal4u.es	TRUE	/	FALSE	1999999999	JwStickySession	WNfkRrF198jeUfPS6SuJFiALvheBeRR5
+
