@@ -331,7 +331,7 @@
             <a class="text-link" href="/contacto.html">Conoce nuestro equipo y contacta →</a>
           </div>
           <div>
-            <div class="editorial-image"><img src="/assets/images/halal-guarantee.jpg" alt="Sello de garantía halal de Junta Islámica" loading="lazy" width="800" height="300"></div>
+            <div class="editorial-image"><img src="/assets/images/halal-guarantee.png" alt="Sello de garantía halal de Junta Islámica" loading="lazy" width="800" height="300"></div>
             <div class="editorial-links" aria-label="Información para tu pedido">
               <a href="/envio-y-devoluciones.html">Plazos, envíos y devoluciones <span aria-hidden="true">→</span></a>
               <a href="/contacto.html">Visítanos en Badajoz <span aria-hidden="true">→</span></a>
