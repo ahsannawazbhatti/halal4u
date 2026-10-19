@@ -227,7 +227,7 @@
     return `<a class="skip-link" href="#main-content">Ir al contenido principal</a>
       <header class="site-header">
         <div class="container header-inner">
-          <a class="wordmark" href="/index.html" aria-label="Halal4u, inicio"><span class="wordmark-mark" aria-hidden="true">H</span><span>HALAL4U</span></a>
+          <a class="wordmark" href="/index.html"><img src="/assets/images/logo-halal4u.webp" alt="logo" fetchpriority="high" width="auto" height="96"></a>
           <nav class="main-nav${menuOpen ? " is-open" : ""}" id="main-nav" aria-label="Navegación principal">
             <a href="/index.html"${active === "home" ? ' aria-current="page"' : ""}>Inicio</a>
             <a href="/store.html"${active === "store" ? ' aria-current="page"' : ""}>Tienda</a>
@@ -249,7 +249,7 @@
       <div class="container">
         <div class="footer-grid">
           <div class="footer-brand">
-            <a class="wordmark" href="/index.html"><span class="wordmark-mark" aria-hidden="true">H</span><span>HALAL4U</span></a>
+            <a class="wordmark" href="/index.html"><img src="/assets/images/logo-halal4u.webp" alt="logo" fetchpriority="high" width="auto" height="120" style="filter: invert(.55);"></a>
             <p>Una empresa familiar dedicada a acercarte productos halal de calidad, online y desde nuestro almacén físico.</p>
           </div>
           <div class="footer-col">
